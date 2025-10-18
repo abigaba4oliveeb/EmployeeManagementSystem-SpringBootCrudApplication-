@@ -13,4 +13,4 @@ Within this system I have also used a Service layer which enables to deligate th
 6. Then run the spring boot application
 7. All the different** CRUD** routes to run are in the rest controller.
 
-   forexample **hhtp://localhost:8080/api/employees**
+   forexample **http://localhost:8080/api/employees**
